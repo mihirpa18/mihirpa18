@@ -1,9 +1,11 @@
 ## Hi there 👋 I'm Mihir P A
 
-🏫 Currently pursuing my B.Tech at NIT Calicut
-⚡ Passionate about Machine Learning, Computer Networks, and all things tech
-💡 Always exploring, learning, and building cool stuff
-🚀 Let’s connect and grow together
+
+🎓 **Computer Science Student** at **NIT Calicut**  
+💻 Passionate about **Web Development**, **Networks**, and **DSA**  
+🚀 Currently learning **Web Development**, **Networking**, and **System Administration**
+
+
 
 
 # 💻 Tech Stack:
